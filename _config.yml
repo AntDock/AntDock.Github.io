@@ -4,10 +4,10 @@
 # ---------------------------------------------------------------
 
 # Site
-title: AntDock Blog
-subtitle: 一只会思考的蚂蚁。
+title: AntDock
+subtitle: 读书，思考，淦。
 description:
-author: Eric Zhang
+author: 张哲涵 Eric Zhang
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
