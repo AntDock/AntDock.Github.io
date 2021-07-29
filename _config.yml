@@ -214,6 +214,7 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   Github: https://github.com/AntDock
+  Weibo: https://weibo.com/6490040825/profile
 
 
 # Social Links Icons
@@ -231,7 +232,7 @@ social_icons:
 
 
 # Sidebar Avatar
-# in directory: /assets/images/avatar.gif
+# in directory: /assets/images/avatar.jpeg
 #avatar:
 
 
