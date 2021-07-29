@@ -35,7 +35,7 @@ paginate: 10
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md", "Gemfile", "Gemfile.lock", "README_en.md", "vendor"]
 
 # Separator
-#excerpt_separator: <!-- more -->
+excerpt_separator: <!-- more -->
 
 # Code Highlighter
 ## 'pygments' is unsupported on GitHub Pages now.
@@ -109,7 +109,7 @@ seo: false
 
 # If true, will add site-subtitle to index page, added in jekyll config.
 # subtitle: Subtitle
-index_with_subtitle: false
+index_with_subtitle: true
 
 # ---------------------------------------------------------------
 # Menu Settings
@@ -123,7 +123,6 @@ menu:
   archives: /archives/
   tags: /tags/
   #sitemap: /sitemap.xml
-  commonweal: /404.html
 
 
 # Enable/Disable menu icons.
@@ -382,10 +381,10 @@ han: false
 disqus:
   enable: true
   shortname: antdock-top
-  count: false
+  count: true
   # hide comments (visitors need to click to load the comments)
   # count need to be false when hide is true
-  hide: true
+  hide: false
 
 # <wildfire>
 wildfire:
