@@ -5,7 +5,15 @@ categories:
 - 奥运
 - 时效
 tags: 奥运 关注 中国
-link: https://tiyu.baidu.com/tokyoly/delegation/8567/tab/奖牌明细
 ---
 
-点击即可查看2020东京奥运中国队奖牌明细。
+立刻查看2020东京奥运中国队奖牌明细。
+<!-- more -->
+
+<iframe  
+ height=850 
+ width=90% 
+ src="https://tiyu.baidu.com/tokyoly/delegation/8567/tab/奖牌明细/current/0"  
+ frameborder=0  
+ allowfullscreen>
+ </iframe>
