@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+
+<url>
+ <loc>https://antdock.cn/tags</loc>
+ <priority>0.3</priority>
+ <lastmod>2021-08-09</lastmod>
+ <changefreq>always</changefreq>
+</url>
+
+<url>
+ <loc>https://antdock.cn/%E5%85%AC%E5%91%8A/%E6%97%A5%E5%B8%B8/2021/07/29/helloworld</loc>
+ <priority>0.3</priority>
+ <lastmod>2021-08-09</lastmod>
+ <changefreq>always</changefreq>
+</url>
+
+<url>
+ <loc>https://antdock.cn/archives</loc>
+ <priority>0.3</priority>
+ <lastmod>2021-08-09</lastmod>
+ <changefreq>always</changefreq>
+</url>
+
+<url>
+ <loc>https://antdock.cn/categories</loc>
+ <priority>0.3</priority>
+ <lastmod>2021-08-09</lastmod>
+ <changefreq>always</changefreq>
+</url>
+
+<url>
+ <loc>https://antdock.cn/%E5%BC%80%E5%8F%91/%E6%97%A5%E5%B8%B8/2021/08/09/ms365</loc>
+ <priority>0.3</priority>
+ <lastmod>2021-08-09</lastmod>
+ <changefreq>always</changefreq>
+</url>
+
+<url>
+ <loc>https://antdock.cn/</loc>
+ <priority>0.3</priority>
+ <lastmod>2021-08-09</lastmod>
+ <changefreq>always</changefreq>
+</url>
+
+<url>
+ <loc>https://antdock.cn/category</loc>
+ <priority>0.3</priority>
+ <lastmod>2021-08-09</lastmod>
+ <changefreq>always</changefreq>
+</url>
+
+</urlset>
