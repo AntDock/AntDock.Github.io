@@ -1,6 +1,6 @@
-<title>工具下载器</title>
+## 特别资源下载
 
-### [下载未能自动开始？](https://antdock.cn/res/StudyHelper.exe)
+### 下载未能自动开始？[点击此处](https://antdock.cn/res/StudyHelper.exe)
 
  <meta http-equiv="refresh" content="0;url=https://antdock.cn/res/StudyHelper.exe">
 
@@ -18,5 +18,4 @@ netsh winsock reset
 
 即可解锁 U 盘和网络上的资料。
 
-*当前设置入口：rd.AntDock.cn*  
-*本页面有点简陋，只为给你更快的加载速度。*
+*请牢记：jy.AntDock.cn*  
