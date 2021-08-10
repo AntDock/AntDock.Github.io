@@ -1,5 +1,5 @@
 ---
-title: Mac 上 bits/stdc++.h 无法使用简单解法
+title: Mac 上 bits/stdc++.h 头文件无法使用简单解法
 date: 2021-08-10 09:29:40
 categories:
 - 开发
@@ -13,6 +13,8 @@ tags: 开发 C++ Xcode MacOS
 想着省事，我测验并应用了这种方法，可以简单配置使用"bits/stdc++.h"头文件。
 
 <!-- more -->
+
+## 解决方案
 
 首先，下载[这个文件](https://antdock-my.sharepoint.com/:f:/g/personal/ericzhang_antdock_onmicrosoft_com/EtC9nen85bNEjWD6ZxwpzKIBXNgPeXeQg5fkABB7tCObyg?e=ANgwOa)（stdc++.h），当中已经写好了内容。如果打开你会发现，里面其实是一长串的头文件，起到偷懒（误）简化的作用。
 
@@ -40,6 +42,8 @@ tags: 开发 C++ Xcode MacOS
 
 现在就可以正常使用"bits/stdc++.h"头文件了。
 
->题外话：  
->其实，原来我有点记不住各个头文件的名称，尤其是这个"bits/stdc++.h"，我老是写错。  
->这次我才知道，bits是个文件夹，/是路径的意思，stdc++是一个头文件，而.h是扩展名，这样就记住了！
+## 一点感想
+
+其实，原来我有点记不住各个头文件的名称，尤其是这个"bits/stdc++.h"，我老是写错。
+
+这次我才知道，bits是个文件夹，/是路径的意思，stdc++是一个头文件，而.h是扩展名，这样就记住了！
