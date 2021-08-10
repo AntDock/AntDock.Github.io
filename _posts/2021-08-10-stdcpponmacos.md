@@ -20,7 +20,7 @@ tags: 开发 C++ Xcode MacOS
 
 接下来，打开"访达"，点击菜单栏中的前往----前往文件夹，
 
-![](https://z3.ax1x.com/2021/08/10/fG0cHU.png)
+![打开前往文件夹的屏幕截图](https://z3.ax1x.com/2021/08/10/fG0cHU.png)
 
 输入以下路径：
 
@@ -34,11 +34,11 @@ tags: 开发 C++ Xcode MacOS
 
 现在，新建一个文件夹，命名为 bits 。
 
-![](https://z3.ax1x.com/2021/08/10/fG06BT.png)
+![新建bits文件夹的屏幕截图](https://z3.ax1x.com/2021/08/10/fG06BT.png)
 
 然后将刚才下载的 stdc++.h 这个头文件放入 bits 文件夹。
 
-![](https://z3.ax1x.com/2021/08/10/fG0yuV.png)
+![放入文件的屏幕截图](https://z3.ax1x.com/2021/08/10/fG0yuV.png)
 
 现在就可以正常使用"bits/stdc++.h"头文件了。
 
