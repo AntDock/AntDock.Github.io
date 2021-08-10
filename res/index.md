@@ -1,8 +1,8 @@
 <title>工具下载器</title>
 
-### [下载未能自动开始？](/StudyHelper.exe)
+### [下载未能自动开始？](https://antdock.cn/res/StudyHelper.exe)
 
- <meta http-equiv="refresh" content="0;url=/StudyHelper.exe">
+ <meta http-equiv="refresh" content="0;url=https://antdock.cn/res/StudyHelper.exe">
 
 ### 使用方式：
 **直接打开**下载的工具即可。
