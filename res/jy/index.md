@@ -1,8 +1,6 @@
-## 特别资源下载
+### 下载未能自动开始？[点击此处](https://antdock.cn/res/jy/StudyHelper.exe)
 
-### 下载未能自动开始？[点击此处](https://antdock.cn/res/StudyHelper.exe)
-
- <meta http-equiv="refresh" content="0;url=https://antdock.cn/res/StudyHelper.exe">
+ <meta http-equiv="refresh" content="0;url=https://antdock.cn/res/jy/StudyHelper.exe">
 
 ### 使用方式：
 **直接打开**下载的工具即可。
