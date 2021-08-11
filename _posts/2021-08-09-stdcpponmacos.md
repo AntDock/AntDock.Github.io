@@ -7,10 +7,10 @@ categories:
 tags: 开发 C++ Xcode MacOS
 ---
 
-前段时间，我在 Mac 上使用 CLion 进行 C++ 编译，但发现 `#include<bits/stdc++.h>` 居然出了问题，无法使用，Xcode 也不行。
+前段时间，我在 Mac 上使用 CLion 进行 C++ 编译，但发现 `#include<bits/stdc++.h>` **居然出了问题，无法使用**，Xcode 也不行。
 我试图查找资料，但一般都要求重装编译器😂。
 
-想着省事，我测验并应用了这种方法，可以简单配置使用"bits/stdc++.h"头文件。
+**想着省事，我测验并应用了这种方法，可以简单配置使用"bits/stdc++.h"头文件。**
 
 <!-- more -->
 
