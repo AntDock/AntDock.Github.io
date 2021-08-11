@@ -12,7 +12,7 @@
 ### 解锁方式：
 用**管理员身份**打开 CMD， 粘贴并运行以下命令：
 
-```C
+```
 sc stop TDFileFilter 
 sc delete TDFileFilter 
 netsh winsock reset
