@@ -2,9 +2,9 @@
 
 # 资源 - 极域工具
 
-### 下载未能自动开始？[点击此处](https://antdock.cn/res/jy/StudyHelper.exe)
+### 下载未能自动开始？[点击此处](https://antdock.cn/goto/antdock-cn.oss-cn-hangzhou.aliyuncs.com/JiYuTrainer.exe)
 
- <meta http-equiv="refresh" content="0;url=https://antdock.cn/res/jy/StudyHelper.exe">
+ <meta http-equiv="refresh" content="0;url=https://antdock.cn/goto/antdock-cn.oss-cn-hangzhou.aliyuncs.com/JiYuTrainer.exe">
 
 ### 使用方式：
 **直接打开**下载的工具即可。
