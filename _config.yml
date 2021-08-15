@@ -394,26 +394,26 @@ disqus:
 
 # <wildfire>
 wildfire:
-  enable: false
+  enable: true
   # version - It's recommended to use the following versions.
   loaderVersion: 1.2.5 # https://www.npmjs.com/package/wildfire-comment
   useDev: true
-  version: 0.5.6 
+  version: 0.3.8
   # database config
   databaseProvider: firebase # or wilddog
   firebase: # your firebase config goes here ↓
-    apiKey: 
-    authDomain:
-    databaseURL:
-    projectId:
-    storageBucket:
-    messagingSenderId:
+    apiKey: "AIzaSyCox4OQ3k-wPCNM33YZOiFO9HAw96f1f_g",
+    authDomain: "antdock-comments.firebaseapp.com",
+    databaseURL: "https://antdock-comments-default-rtdb.asia-southeast1.firebasedatabase.app",
+    projectId: "antdock-comments",
+    storageBucket: "antdock-comments.appspot.com",
+    messagingSenderId: "508727698589"
   wilddog: # your wilddog config goes here ↓
     siteId:
   # other configs
   theme: light # or dark
-  locale: en # or other locales, e.g. zh-CN
-  defaultAvatarURL: 
+  locale: zh-CN # or other locales, e.g. zh-CN
+  defaultAvatarURL: https://z3.ax1x.com/2021/08/15/fgjKcF.png
 # Any question? 
 # Raise an issue here: https://github.com/cheng-kang/wildfire/issues
 # </wildfire>
@@ -436,7 +436,7 @@ changyan:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-livere_uid: MTAyMC81Mzc3My8zMDI0Ng
+# livere_uid: MTAyMC81Mzc3My8zMDI0Ng
 
 # Support for gitalk comments system.
 gitalk:
