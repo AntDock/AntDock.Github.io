@@ -426,7 +426,7 @@ wildfire:
 
 # changyan
 changyan:
-  enable: true
+  enable: false
   appid: cyvA2eFS7
   appkey: 08b93945226b31669dd091ce004d5c8a
 
@@ -436,7 +436,7 @@ changyan:
 
 # Support for LiveRe comments system.
 # You can get your uid from https://livere.com/insight/myCode (General web site)
-#livere_uid: your uid
+livere_uid: MTAyMC81Mzc3My8zMDI0Ng
 
 # Support for gitalk comments system.
 gitalk:
