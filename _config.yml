@@ -402,12 +402,12 @@ wildfire:
   # database config
   databaseProvider: firebase # or wilddog
   firebase: # your firebase config goes here ↓
-    apiKey: "AIzaSyCox4OQ3k-wPCNM33YZOiFO9HAw96f1f_g",
-    authDomain: "antdock-comments.firebaseapp.com",
-    databaseURL: "https://antdock-comments-default-rtdb.asia-southeast1.firebasedatabase.app",
-    projectId: "antdock-comments",
-    storageBucket: "antdock-comments.appspot.com",
-    messagingSenderId: "508727698589"
+    apiKey: AIzaSyCox4OQ3k-wPCNM33YZOiFO9HAw96f1f_g
+    authDomain: antdock-comments.firebaseapp.com
+    databaseURL: https://antdock-comments-default-rtdb.asia-southeast1.firebasedatabase.app
+    projectId: antdock-comments
+    storageBucket: antdock-comments.appspot.com
+    messagingSenderId: 508727698589
   wilddog: # your wilddog config goes here ↓
     siteId:
   # other configs
