@@ -394,11 +394,11 @@ disqus:
 
 # <wildfire>
 wildfire:
-  enable: false
+  enable: true
   # version - It's recommended to use the following versions.
   loaderVersion: 1.2.5 # https://www.npmjs.com/package/wildfire-comment
   useDev: true
-  version: 0.5.6
+  version: 0.3.8
   # database config
   databaseProvider: firebase # or wilddog
   firebase: # your firebase config goes here ↓
@@ -426,7 +426,7 @@ wildfire:
 
 # changyan
 changyan:
-  enable: true
+  enable: false
   appid: cyvA2eFS7
   appkey: 08b93945226b31669dd091ce004d5c8a
 
