@@ -10,9 +10,10 @@
 **直接打开**下载的工具即可。
 
 ### 解锁方式：
-用**管理员身份**打开 CMD， 粘贴并运行以下命令：
+同时按下 Windows 徽标键和 R，在弹出的“运行”窗口处输入 cmd 并回车，进入 CMD，粘贴并运行以下命令（粘贴完成，记得回车）：
 
 ```
+runas /user:administrator cmd
 sc stop TDFileFilter 
 sc delete TDFileFilter 
 netsh winsock reset
