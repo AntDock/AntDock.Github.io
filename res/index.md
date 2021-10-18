@@ -5,6 +5,8 @@
 
 - [**JYToolSite**: 信息课工具，懂的都懂。](/res/jy)
 - [**NFLSecure**: 南外常见病毒专杀工具。](https://antdock.cn/goto/antdock.cn/NFLSecure)
-- [**PythonAnswers**: NFLSOJ Python 百题题解。](https://antdock-my.sharepoint.com/:f:/g/personal/ericzhang_antdock_cn/EmqRMpCe75ZJq8q28QknZU8BWclIkY_ZcJWvD3ArygtZXQ?e=9rkqb5)
+- [**PythonAnswers**: NFLSOJ Python 百题题解，由 SPlay 提供。](https://antdock.cn/goto/antdock-my.sharepoint.com/:f:/g/personal/ericzhang_antdock_cn/EmqRMpCe75ZJq8q28QknZU8BWclIkY_ZcJWvD3ArygtZXQ?e=9rkqb5)
 
 ### [更多... (OneDrive)](https://antdock.cn/goto/antdock-my.sharepoint.com/:f:/g/personal/ericzhang_antdock_cn/ElrtNqLDL3dCr8XD7FSQOI4BpRLVp0mLRTY6E8Ngxm6V3A)
+
+此处上传分享仅供同学交流学习使用，若有侵权，请联系 [hi@antdock.cn](mailto:hi@antdock.cn) 删除。
