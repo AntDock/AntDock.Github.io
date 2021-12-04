@@ -642,10 +642,10 @@ canvas_nest: false
 three_waves: false
 
 # canvas_lines
-canvas_lines: false
+canvas_lines: true
 
 # canvas_sphere
-canvas_sphere: true
+canvas_sphere: false
 
 # Only fit scheme Pisces
 # Canvas-ribbon
@@ -719,7 +719,7 @@ vendors:
 
   # three_waves
   # https://github.com/jjandxa/canvas_lines
-  canvas_lines:
+  canvas_lines: http://antdock-cn.oss-cn-hangzhou.aliyuncs.com/BlogRes/canvas_lines.min.js
 
   # three_waves
   # https://github.com/jjandxa/canvas_sphere
