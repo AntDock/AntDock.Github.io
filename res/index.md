@@ -1,8 +1,8 @@
 ---
-title: 文件
+title: 文件与资源
 layout: page
 type: res
-comments: false
+comments: true
 ---
 
 ## 在找独特工具资源？
@@ -14,4 +14,4 @@ comments: false
 
 ### [更多... (OneDrive)](https://antdock.cn/goto/antdock-my.sharepoint.com/:f:/g/personal/ericzhang_antdock_cn/ElrtNqLDL3dCr8XD7FSQOI4BpRLVp0mLRTY6E8Ngxm6V3A)
 
-此处上传分享仅供同学交流学习使用，若有侵权，请联系 [hi@antdock.cn](mailto:hi@antdock.cn) 删除。
+此处上传分享仅供同学交流学习使用，若有侵权，请在下方留言或联系 [hi@antdock.cn](mailto:hi@antdock.cn) 删除。清附带可以核验的身份信息。
