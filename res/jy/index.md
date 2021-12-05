@@ -1,5 +1,5 @@
 ---
-title: 资源 - 极域工具
+title: 极域工具
 layout: page
 type: res
 comments: false

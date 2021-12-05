@@ -5,7 +5,7 @@ categories:
 - 开发
 - 日常
 - 工具
-tags: Windows 微软 极域 网站 开发
+tags: Windows 微软 极域 网站 开发 工具
 ---
 
 没有想到，大佬 Dreamfish 居然又更新了**信息课必用的小工具**。 

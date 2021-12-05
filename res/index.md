@@ -1,5 +1,5 @@
 ---
-title: 文件与资源
+title: 文件
 layout: page
 type: res
 comments: true
