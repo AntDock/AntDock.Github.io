@@ -16,6 +16,3 @@ tags: 日常 摄影 南外
 ![IbItXD.jpg](https://z3.ax1x.com/2021/11/19/IbItXD.jpg)
 ![IbIy1f.jpg](https://z3.ax1x.com/2021/11/19/IbIy1f.jpg)
 ![IbIBtI.jpg](https://z3.ax1x.com/2021/11/19/IbIBtI.jpg)
-
-© 张哲涵 Eric Zhang, AntDock SiteLive
-版权所有，严禁盗用。
