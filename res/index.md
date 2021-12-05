@@ -1,4 +1,9 @@
-<title>Toolbox</title>
+---
+title: 文件
+layout: page
+type: res
+comments: false
+---
 
 ## 在找独特工具资源？
 ### 点击下方链接，前往对应资源。

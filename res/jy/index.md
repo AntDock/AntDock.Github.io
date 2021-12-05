@@ -1,6 +1,9 @@
-<title>Toolbox</title>
-
-# 资源 - 极域工具
+---
+title: 资源 - 极域工具
+layout: page
+type: res
+comments: false
+---
 
 ### 下载未能自动开始？[点击此处](https://antdock.cn/goto/antdock-cn.oss-cn-hangzhou.aliyuncs.com/JiYuTrainer.exe)
 
