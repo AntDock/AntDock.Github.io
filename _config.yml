@@ -119,10 +119,10 @@ index_with_subtitle: true
 menu:
   home: /
   categories: /categories/
-  #about: /about/
   archives: /archives/
   tags: /tags/
   files: /res/
+  about: /about/
   #sitemap: /sitemap.xml
 
 
