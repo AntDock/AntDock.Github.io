@@ -234,8 +234,8 @@ social_icons:
 
 
 # Sidebar Avatar
-in directory: /assets/images/avatar.jpeg
-#avatar:
+# in directory: /assets/images/avatar.jpeg
+avatar: https://s4.ax1x.com/2021/12/05/oD29tx.jpg
 
 
 # Table Of Contents in the Sidebar
