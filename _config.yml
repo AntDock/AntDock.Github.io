@@ -369,7 +369,7 @@ highlight_theme: normal
 mathjax:
   enable: true
   per_page: true
-  cdn: //cdn.bootcss.com/mathjax/2.7.1/latest.js?config=TeX-AMS-MML_HTMLorMML
+  cdn: https://antdock-cn.oss-cn-hangzhou.aliyuncs.com/BlogRes/latest.js
 
 # Han Support docs: https://hanzi.pro/
 han: false
