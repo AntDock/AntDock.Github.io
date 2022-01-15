@@ -1,44 +1,34 @@
 {% if site.wildfire.enable %}
-  <script type="text/javascript">
-    var wildfireConfig = () => ({
-      {% if site.wildfire.useDev %}
-      useDev: {{site.wildfire.useDev}},
-      {% endif %}
-      {% if site.wildfire.version %}
-      version: '{{site.wildfire.version}}',
-      {% endif %}
-      databaseProvider: '{{site.wildfire.databaseProvider}}',
-      databaseConfig: {
-        {% if site.wildfire.databaseProvider == 'firebase' %}
-        apiKey: '{{site.wildfire.firebase.apiKey}}',
-        authDomain: '{{site.wildfire.firebase.authDomain}}',
-        databaseURL: '{{site.wildfire.firebase.databaseURL}}',
-        projectId: '{{site.wildfire.firebase.projectId}}',
-        storageBucket: '{{site.wildfire.firebase.storageBucket}}',
-        messagingSenderId: '{{site.wildfire.firebase.messagingSenderId}}'
-        {% else %}
-        siteId: '{{site.wildfire.wilddog.siteId}}'
-        {% endif %}
-      },
-      pageURL: '{{ page.url | absolute_url }}',
-      pageTitle: '{{ page.title| replace: "'", "\\'" }}',
-      {% if site.wildfire.theme %}
-      theme: '{{site.wildfire.theme}}',
-      {% endif %}
-      {% if site.wildfire.locale %}
-      locale: '{{site.wildfire.locale}}',
-      {% endif %}
-      {% if site.wildfire.defaultAvatarURL %}
-      defaultAvatarURL: '{{site.wildfire.defaultAvatarURL}}'
-      {% endif %}
-    });
-  </script>
-  {% if page.comments %}
-    {% if site.wildfire.loaderVersion %}
-    <script src="https://unpkg.com/wildfire@{{site.wildfire.loaderVersion}}"></script>
-    {% else %}
-    <script src="https://unpkg.com/wildfire"></script>
-    {% endif %}
-  {% endif %}
-  <script src="https://unpkg.com/wf-count"></script>
+<script>
+  // 你可以自定义一些配置
+  //
+  // databaseProvider: 必须为 'wilddog' 或者 'firebase'
+  // databaseConfig: 请从你的数据库控制台复制过来。
+  // pageURL(可选): 默认为当前页面的 URL。
+  // pageTitle(可选): 默认为当前页面的 title。
+  // theme(可选): 'light'（默认）或者 'dark'。
+  // locale(可选): 'en'（默认）或者 'zh-CN'
+  // defaultAvatarURL(可选): 默认头像是一个可爱的消防员 :-D
+  //
+  var wildfireConfig = () => ({
+    databaseProvider: firebase,
+    databaseConfig: {
+    apiKey: "AIzaSyCox4OQ3k-wPCNM33YZOiFO9HAw96f1f_g",
+    authDomain: "antdock-comments.firebaseapp.com",
+    databaseURL: "https://antdock-comments-default-rtdb.asia-southeast1.firebasedatabase.app",
+    projectId: "antdock-comments",
+    storageBucket: "antdock-comments.appspot.com",
+    messagingSenderId: "508727698589",
+    appId: "1:508727698589:web:7c39be9b5610e2325b2074",
+    measurementId: "G-9XSTTF0QJX"
+    }
+    // pageURL: YOUR_PAGE_URL,
+    // pageTitle: YOUR_PAGE_TITLE,
+    theme: 'light',
+    locale: 'zh-CN',
+    defaultAvatarURL: 'https://z3.ax1x.com/2021/08/15/fgjKcF.png'
+  })
+</script>
+<script src="https://unpkg.com/wildfire@0.3.8/dist/wildfire.auto.js"></script>
+<script src="https://unpkg.com/wf-count"></script>
 {% endif %}
