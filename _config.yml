@@ -396,11 +396,11 @@ disqus:
 wildfire:
   enable: true
   # version - It's recommended to use the following versions.
-  loaderVersion: 0.3.9 # https://www.npmjs.com/package/wildfire
+  loaderVersion: 0.3.8 # https://www.npmjs.com/package/wildfire
   useDev: true
-  version: 0.3.9
+  version: 0.3.8
   # database config
-  databaseProvider: firebase # or wilddog
+  databaseProvider: firebase
   firebase: # your firebase config goes here ↓
     apiKey: AIzaSyCox4OQ3k-wPCNM33YZOiFO9HAw96f1f_g
     authDomain: antdock-comments.firebaseapp.com
