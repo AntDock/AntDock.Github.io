@@ -394,7 +394,7 @@ disqus:
 
 # <wildfire>
 wildfire:
-  enable: false
+  enable: true
   # version - It's recommended to use the following versions.
   loaderVersion: 0.3.9 # https://www.npmjs.com/package/wildfire
   useDev: true
@@ -426,7 +426,7 @@ wildfire:
 
 # changyan
 changyan:
-  enable: true
+  enable: false
   appid: cyvA2eFS7
   appkey: 08b93945226b31669dd091ce004d5c8a
 
