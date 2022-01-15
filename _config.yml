@@ -426,7 +426,7 @@ wildfire:
 
 # changyan
 changyan:
-  enable: false
+  enable: true
   appid: cyvA2eFS7
   appkey: 08b93945226b31669dd091ce004d5c8a
 
@@ -440,7 +440,7 @@ changyan:
 
 # Support for gitalk comments system.
 gitalk:
-  enable: true
+  enable: false
   clientID: 63f0ad74bcd87299d060
   clientSecret: 29eaf6815409b4b2e1be053bdac95657008f3163
   repo: AntDock.Github.io
