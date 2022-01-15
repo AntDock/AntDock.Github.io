@@ -14,4 +14,4 @@ comments: true
 
 ### [更多... (OneDrive)](https://antdock.cn/goto/antdock-my.sharepoint.com/:f:/g/personal/ericzhang_antdock_cn/ElrtNqLDL3dCr8XD7FSQOI4BpRLVp0mLRTY6E8Ngxm6V3A)
 
-此处上传分享仅供同学交流学习使用，若有侵权，请在下方留言或联系 [hi@antdock.cn](mailto:hi@antdock.cn) 删除。清附带可以核验的身份信息。
+此处上传分享仅供同学交流学习使用，若有侵权，请在下方留言或联系 [hi@antdock.cn](mailto:hi@antdock.cn) 删除。请附带可以核验的身份信息。
